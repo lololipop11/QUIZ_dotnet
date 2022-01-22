@@ -1,0 +1,15 @@
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/bin/Debug/net6.0/QuizGame
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/bin/Debug/net6.0/QuizGame.deps.json
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/bin/Debug/net6.0/QuizGame.runtimeconfig.json
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/bin/Debug/net6.0/QuizGame.dll
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/bin/Debug/net6.0/ref/QuizGame.dll
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/bin/Debug/net6.0/QuizGame.pdb
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.csproj.AssemblyReference.cache
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.AssemblyInfoInputs.cache
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.AssemblyInfo.cs
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.csproj.CoreCompileInputs.cache
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.dll
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/ref/QuizGame.dll
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.pdb
+/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/obj/Debug/net6.0/QuizGame.genruntimeconfig.cache

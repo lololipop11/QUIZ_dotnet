@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9whO62vcIx8iWZvaj/4M0fnwY/oSYkYszOCeAfzp57aIDb2nqJmP36fQj8g1swWXUcQpnhEjZkHN+WfgksX8Yg==",
+  "success": true,
+  "projectFilePath": "/home/oneeyeddancer/Документы/dotnet/QuizGame/QuizGame/QuizGame.csproj",
+  "expectedPackageFiles": [
+    "/home/oneeyeddancer/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
